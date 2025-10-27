@@ -1,4 +1,6 @@
-# Here is a new update by Da
+# Here is a new update by Daria Keida
+# Here is another update by Daria Keida
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
